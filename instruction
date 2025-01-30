@@ -1,0 +1,4 @@
+php artisan route:list
+php artisan make:seeder SuperAdminSeeder
+php artisan db:seed --class=SuperAdminSeeder
+
